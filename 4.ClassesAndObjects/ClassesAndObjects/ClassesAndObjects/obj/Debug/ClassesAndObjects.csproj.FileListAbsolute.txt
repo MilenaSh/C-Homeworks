@@ -1,0 +1,6 @@
+G:\TELERIK\C#Advanced\4.ClassesAndObjects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+G:\TELERIK\C#Advanced\4.ClassesAndObjects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+G:\TELERIK\C#Advanced\4.ClassesAndObjects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+G:\TELERIK\C#Advanced\4.ClassesAndObjects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+G:\TELERIK\C#Advanced\4.ClassesAndObjects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+G:\TELERIK\C#Advanced\4.ClassesAndObjects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojResolveAssemblyReference.cache
