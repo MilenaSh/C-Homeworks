@@ -1,0 +1,6 @@
+G:\TELERIK\C#Advanced\6.Strings\Strings\Strings\bin\Debug\Strings.exe.config
+G:\TELERIK\C#Advanced\6.Strings\Strings\Strings\bin\Debug\Strings.exe
+G:\TELERIK\C#Advanced\6.Strings\Strings\Strings\bin\Debug\Strings.pdb
+G:\TELERIK\C#Advanced\6.Strings\Strings\Strings\obj\Debug\Strings.exe
+G:\TELERIK\C#Advanced\6.Strings\Strings\Strings\obj\Debug\Strings.pdb
+G:\TELERIK\C#Advanced\6.Strings\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+G:\TELERIK\C#Advanced\5.Workshop1\Workshop1\Workshop1\bin\Debug\Workshop1.exe.config
+G:\TELERIK\C#Advanced\5.Workshop1\Workshop1\Workshop1\bin\Debug\Workshop1.exe
+G:\TELERIK\C#Advanced\5.Workshop1\Workshop1\Workshop1\bin\Debug\Workshop1.pdb
+G:\TELERIK\C#Advanced\5.Workshop1\Workshop1\Workshop1\obj\Debug\Workshop1.csprojResolveAssemblyReference.cache
+G:\TELERIK\C#Advanced\5.Workshop1\Workshop1\Workshop1\obj\Debug\Workshop1.exe
+G:\TELERIK\C#Advanced\5.Workshop1\Workshop1\Workshop1\obj\Debug\Workshop1.pdb

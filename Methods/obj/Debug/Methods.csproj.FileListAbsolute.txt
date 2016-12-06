@@ -1,0 +1,6 @@
+G:\TELERIK\C#Advanced\2.Methods\Methods\Methods\bin\Debug\Methods.exe.config
+G:\TELERIK\C#Advanced\2.Methods\Methods\Methods\bin\Debug\Methods.exe
+G:\TELERIK\C#Advanced\2.Methods\Methods\Methods\bin\Debug\Methods.pdb
+G:\TELERIK\C#Advanced\2.Methods\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+G:\TELERIK\C#Advanced\2.Methods\Methods\Methods\obj\Debug\Methods.exe
+G:\TELERIK\C#Advanced\2.Methods\Methods\Methods\obj\Debug\Methods.pdb

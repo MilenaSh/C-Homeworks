@@ -1,0 +1,6 @@
+G:\TELERIK\C#Advanced\1.MultidimentionalArrays\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe.config
+G:\TELERIK\C#Advanced\1.MultidimentionalArrays\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe
+G:\TELERIK\C#Advanced\1.MultidimentionalArrays\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.pdb
+G:\TELERIK\C#Advanced\1.MultidimentionalArrays\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.exe
+G:\TELERIK\C#Advanced\1.MultidimentionalArrays\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.pdb
+G:\TELERIK\C#Advanced\1.MultidimentionalArrays\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.csprojResolveAssemblyReference.cache

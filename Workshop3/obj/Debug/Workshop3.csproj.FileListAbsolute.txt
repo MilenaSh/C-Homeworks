@@ -1,0 +1,5 @@
+G:\TELERIK\C#Advanced\5.Workshops\Workshop3\Workshop3\Workshop3\bin\Debug\Workshop3.exe.config
+G:\TELERIK\C#Advanced\5.Workshops\Workshop3\Workshop3\Workshop3\bin\Debug\Workshop3.exe
+G:\TELERIK\C#Advanced\5.Workshops\Workshop3\Workshop3\Workshop3\bin\Debug\Workshop3.pdb
+G:\TELERIK\C#Advanced\5.Workshops\Workshop3\Workshop3\Workshop3\obj\Debug\Workshop3.exe
+G:\TELERIK\C#Advanced\5.Workshops\Workshop3\Workshop3\Workshop3\obj\Debug\Workshop3.pdb

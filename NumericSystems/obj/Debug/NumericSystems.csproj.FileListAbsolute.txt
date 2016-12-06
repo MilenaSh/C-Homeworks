@@ -1,0 +1,6 @@
+G:\TELERIK\C#Advanced\3.NumericSystems\NumericSystems\NumericSystems\bin\Debug\NumericSystems.exe.config
+G:\TELERIK\C#Advanced\3.NumericSystems\NumericSystems\NumericSystems\bin\Debug\NumericSystems.exe
+G:\TELERIK\C#Advanced\3.NumericSystems\NumericSystems\NumericSystems\bin\Debug\NumericSystems.pdb
+G:\TELERIK\C#Advanced\3.NumericSystems\NumericSystems\NumericSystems\obj\Debug\NumericSystems.exe
+G:\TELERIK\C#Advanced\3.NumericSystems\NumericSystems\NumericSystems\obj\Debug\NumericSystems.pdb
+G:\TELERIK\C#Advanced\3.NumericSystems\NumericSystems\NumericSystems\obj\Debug\NumericSystems.csprojResolveAssemblyReference.cache
